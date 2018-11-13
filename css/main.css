@@ -60,4 +60,9 @@ html {
 
 @media print {
 
+  .masthead,
+  .footer {
+    display: none;
+  }
+
 }
